@@ -12,3 +12,8 @@ in an effort to maximize their site for search engines.
 
   * Commented changes in CSS & HTML file.
   
+![Screenshot](https://user-images.githubusercontent.com/107453534/178571961-debd5ac5-3dc8-4fee-ab95-8ce810daa5ca.png)
+
+Live URL: https://arseniorogers.github.io/The-Social-Solution/
+
+
